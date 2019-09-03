@@ -11,7 +11,12 @@ public class DemoSubproject {
 		
         String foo = null;
         System.out.println(foo.length());
-        
+        try{
+			
+		}
+		catch(Exception ex){
+			
+		}
         return k;
 	}
 }
